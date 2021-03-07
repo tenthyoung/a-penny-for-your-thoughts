@@ -72,7 +72,7 @@
         data-amount="0.01"
         data-label="For a thought"
         data-currency="USD"
-        data-on-payment="userPaidAPenny"
+        data-on-payment={userPaidAPenny}
       />
     {/if}
     {#if userCanAfford === "unknown"}
