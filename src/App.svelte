@@ -72,7 +72,6 @@
         data-amount="0.01"
         data-label="For a thought"
         data-currency="USD"
-        data-dev-mode="true"
         data-on-payment="userPaidAPenny"
       />
     {/if}
