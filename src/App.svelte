@@ -117,6 +117,10 @@
     width: 11rem !important;
   }
 
+  #lottie-wrap {
+    max-width: 40rem;
+  }
+
   #user-controls {
     display: flex;
     flex-direction: column;
